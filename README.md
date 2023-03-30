@@ -9,12 +9,13 @@ The following tutorials have been parsed.
     - [X] Building 1D Rydberg crystals
     - [X] Microwave engineering of XXZ hamiltonian
     - [X] Preparing a state with AF coupling and Ising mode
-    - [ ] Shadow estimation for VQS
+    - [X] Shadow estimation for VQS
     - [X] 3-site XY spin chain. 
 - [X] applications/QAOA and QAA to solve QUBO
 - [ ] Advanced features
     - [ ] Simulation with Noise and Errors
-    - [ ] Register Layouts
+    - [X] Register Layouts
+    - [X] State preparation with the SLM Mask
     - [ ] others ...
 
 
